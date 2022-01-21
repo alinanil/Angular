@@ -1,0 +1,40 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "firstName": "Alin",
+      "lastName": "Anil",
+      "email": "alinanil121@gmail.com",
+      "mobile": "08590429089",
+      "salary": "76000"
+    },
+    {
+      "id": 2,
+      "firstName": "Sreelekshmi ",
+      "lastName": "S R",
+      "email": "srilaxmy123@gmail.com",
+      "mobile": "3456789023",
+      "salary": "78000"
+    },
+    {
+      "id": 3,
+      "firstName": "Chippy ",
+      "lastName": "K S",
+      "email": "chippy1234@gmail.com",
+      "mobile": "088534324567",
+      "salary": "765344"
+    },
+    {
+      "id": 4,
+      "firstName": "Deepa",
+      "lastName": "K S",
+      "email": "deepacasd@gmail.com",
+      "mobile": "45423245",
+      "salary": "7543342"
+    }
+  ],
+  "comments": [],
+  "profile": {
+    "name": "typicode"
+  }
+}

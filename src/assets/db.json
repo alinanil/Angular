@@ -1,0 +1,16 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "firstName": "Alin",
+      "lastName": "A",
+      "email": "alinanil121@gmail.com",
+      "mobile": "08590429089",
+      "salary": "76000"
+    }
+  ],
+  "comments": [],
+  "profile": {
+    "name": "typicode"
+  }
+}
